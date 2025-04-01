@@ -1,2 +1,3 @@
 print(1)
-print(2)
+a = 5
+print(a)
