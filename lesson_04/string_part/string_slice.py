@@ -16,3 +16,10 @@ hello_world = "Hello,World!"
 # print(hello_world[1:-1:3])
 # print(hello_world[::-1])
 # print(hello_world)
+
+# print(hello_world)
+# print(id(hello_world))
+#
+# hello_world = "h" + hello_world[1:]
+# print(hello_world)
+# print(id(hello_world))
